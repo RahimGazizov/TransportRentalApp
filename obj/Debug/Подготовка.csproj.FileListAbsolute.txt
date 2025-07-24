@@ -1,0 +1,10 @@
+C:\Users\Gaziz\OneDrive\Desktop\классы(ООП)\Подготовка\Подготовка\bin\Debug\Подготовка.exe.config
+C:\Users\Gaziz\OneDrive\Desktop\классы(ООП)\Подготовка\Подготовка\bin\Debug\Подготовка.exe
+C:\Users\Gaziz\OneDrive\Desktop\классы(ООП)\Подготовка\Подготовка\bin\Debug\Подготовка.pdb
+C:\Users\Gaziz\OneDrive\Desktop\классы(ООП)\Подготовка\Подготовка\obj\Debug\Подготовка.csproj.AssemblyReference.cache
+C:\Users\Gaziz\OneDrive\Desktop\классы(ООП)\Подготовка\Подготовка\obj\Debug\Подготовка.csproj.CoreCompileInputs.cache
+C:\Users\Gaziz\OneDrive\Desktop\классы(ООП)\Подготовка\Подготовка\obj\Debug\Подготовка.exe
+C:\Users\Gaziz\OneDrive\Desktop\классы(ООП)\Подготовка\Подготовка\obj\Debug\Подготовка.pdb
+C:\Users\Gaziz\OneDrive\Desktop\классы(ООП)\Подготовка\Подготовка\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gaziz\OneDrive\Desktop\классы(ООП)\Подготовка\Подготовка\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gaziz\OneDrive\Desktop\классы(ООП)\Подготовка\Подготовка\obj\Debug\Подготовка.csproj.Up2Date
